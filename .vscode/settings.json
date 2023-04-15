@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "nonmd5func.h": "c",
+        "string.h": "c",
+        "allfunc.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "md5func.h": "c",
+        "allfuncvar.h": "c",
+        "def.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/qiumiaojin/Documents/c_playground/sawlMD5/build",
+            "binaryPath": "/Users/qiumiaojin/Documents/c_playground/sawlMD5/build/sawlMD5",
+            "binaryArgs": []
+        }
+    ]
+}
